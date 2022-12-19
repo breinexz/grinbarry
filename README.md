@@ -1,2 +1,0 @@
-# grinbarry
-sample
